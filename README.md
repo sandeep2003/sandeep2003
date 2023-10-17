@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sandeep2003
 - 👀 I’m interested in computer programming
 - 🌱 I’m currently learning React
-- 🌱 I’m currently learning Angular
+- 🌱 Experienced Angular Developer
 - 💞️ I’m looking to collaborate on github
 - 📫 you can mail me at patel.sandeep2097@gmail.com
 
